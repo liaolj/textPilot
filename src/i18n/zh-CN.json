@@ -1,0 +1,99 @@
+{
+  "app": {
+    "name": "TextPilot",
+    "slogan": "AI 驾驭你的文字"
+  },
+  "main": {
+    "searchPlaceholder": "搜索动作...",
+    "recentActions": "最近使用",
+    "allActions": "全部动作",
+    "noActions": "暂无动作"
+  },
+  "preview": {
+    "title": "预览",
+    "regenerate": "重新生成",
+    "confirm": "确认",
+    "cancel": "取消",
+    "copying": "复制中...",
+    "copied": "已复制到剪贴板"
+  },
+  "settings": {
+    "title": "设置",
+    "general": "通用",
+    "models": "模型配置",
+    "templates": "模板管理",
+    "preferences": "用户偏好",
+    "hotkeys": "快捷键",
+    "about": "关于"
+  },
+  "models": {
+    "title": "模型配置",
+    "add": "添加模型",
+    "edit": "编辑模型",
+    "delete": "删除模型",
+    "name": "名称",
+    "type": "类型",
+    "apiKey": "API Key",
+    "baseUrl": "Base URL",
+    "modelName": "模型名称",
+    "setDefault": "设为默认",
+    "openai": "OpenAI",
+    "claude": "Claude",
+    "ollama": "Ollama",
+    "custom": "自定义"
+  },
+  "templates": {
+    "title": "模板管理",
+    "add": "新增模板",
+    "edit": "编辑模板",
+    "delete": "删除模板",
+    "import": "导入",
+    "export": "导出",
+    "name": "名称",
+    "icon": "图标",
+    "prompt": "提示词",
+    "hotkey": "快捷键",
+    "model": "指定模型",
+    "useDefault": "使用默认模型"
+  },
+  "preferences": {
+    "title": "用户偏好",
+    "writingStyle": "写作风格",
+    "domain": "专业领域",
+    "language": "语言偏好",
+    "personalInfo": "个人信息",
+    "longTermContext": "长期上下文",
+    "formal": "正式",
+    "casual": "轻松",
+    "concise": "简洁",
+    "detailed": "详细",
+    "tech": "技术",
+    "business": "商务",
+    "academic": "学术",
+    "creative": "创意",
+    "general": "通用",
+    "zhCN": "中文",
+    "enUS": "英文",
+    "auto": "自动检测"
+  },
+  "history": {
+    "title": "历史记录",
+    "search": "搜索历史...",
+    "favorite": "收藏",
+    "unfavorite": "取消收藏",
+    "delete": "删除",
+    "clear": "清空历史",
+    "noRecords": "暂无记录"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "confirm": "确认",
+    "edit": "编辑",
+    "close": "关闭",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  }
+}

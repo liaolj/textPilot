@@ -1,0 +1,99 @@
+{
+  "app": {
+    "name": "TextPilot",
+    "slogan": "AI Pilot Your Text"
+  },
+  "main": {
+    "searchPlaceholder": "Search actions...",
+    "recentActions": "Recent",
+    "allActions": "All Actions",
+    "noActions": "No actions"
+  },
+  "preview": {
+    "title": "Preview",
+    "regenerate": "Regenerate",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "copying": "Copying...",
+    "copied": "Copied to clipboard"
+  },
+  "settings": {
+    "title": "Settings",
+    "general": "General",
+    "models": "Models",
+    "templates": "Templates",
+    "preferences": "Preferences",
+    "hotkeys": "Hotkeys",
+    "about": "About"
+  },
+  "models": {
+    "title": "Model Configuration",
+    "add": "Add Model",
+    "edit": "Edit Model",
+    "delete": "Delete Model",
+    "name": "Name",
+    "type": "Type",
+    "apiKey": "API Key",
+    "baseUrl": "Base URL",
+    "modelName": "Model Name",
+    "setDefault": "Set as Default",
+    "openai": "OpenAI",
+    "claude": "Claude",
+    "ollama": "Ollama",
+    "custom": "Custom"
+  },
+  "templates": {
+    "title": "Template Management",
+    "add": "Add Template",
+    "edit": "Edit Template",
+    "delete": "Delete Template",
+    "import": "Import",
+    "export": "Export",
+    "name": "Name",
+    "icon": "Icon",
+    "prompt": "Prompt",
+    "hotkey": "Hotkey",
+    "model": "Specify Model",
+    "useDefault": "Use Default Model"
+  },
+  "preferences": {
+    "title": "User Preferences",
+    "writingStyle": "Writing Style",
+    "domain": "Domain",
+    "language": "Language",
+    "personalInfo": "Personal Info",
+    "longTermContext": "Long-term Context",
+    "formal": "Formal",
+    "casual": "Casual",
+    "concise": "Concise",
+    "detailed": "Detailed",
+    "tech": "Tech",
+    "business": "Business",
+    "academic": "Academic",
+    "creative": "Creative",
+    "general": "General",
+    "zhCN": "Chinese",
+    "enUS": "English",
+    "auto": "Auto Detect"
+  },
+  "history": {
+    "title": "History",
+    "search": "Search history...",
+    "favorite": "Favorite",
+    "unfavorite": "Unfavorite",
+    "delete": "Delete",
+    "clear": "Clear History",
+    "noRecords": "No records"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "edit": "Edit",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}
